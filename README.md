@@ -1,4 +1,4 @@
-## Hi there, I'm Victor (VikiStrings) 👋
+## Hi there, I'm Victor (VikiStringz) 👋
 
  ## Languages
  <p><strong>JavaScript, TypeScript, Java, and Python</strong></p>
