@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Victor (VikiStrings) 👋
 
+ 🔭 Languages
+     JavaScript TypeScript Java Python
+     
 <!--
 **ProgViki/ProgViki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
