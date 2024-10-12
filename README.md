@@ -1,8 +1,10 @@
 ## Hi there, I'm Victor (VikiStrings) 👋
 
- 🔭 Languages
+ ## Languages
      JavaScript TypeScript Java Python
-     
+ ## Technologies
+     React ReactNative TailwindCSS Redux NodeJs ExpressJs PostGreSQL 
+     MySQL MongoDB Prisma Anaconda Springboot
 <!--
 **ProgViki/ProgViki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
