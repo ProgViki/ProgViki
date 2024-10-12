@@ -1,7 +1,7 @@
 ## Hi there, I'm Victor (VikiStrings) 👋
 
  ## Languages
- <p>JavaScript TypeScript Java Python</p>
+ <p><strong>JavaScript, TypeScript, Java, and Python</strong></p>
  <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/96px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/96px-Typescript.svg.png" alt="TypeScript" />
