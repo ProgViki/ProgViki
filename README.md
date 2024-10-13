@@ -10,8 +10,9 @@
  </div>
      
  ## Technologies
-     <p style={{fontSize: larger; fontWeight: bolder;}}>React ReactNative TailwindCSS Redux NodeJs ExpressJs PostGreSQL 
-     MySQL MongoDB Prisma Anaconda Springboot</p>
+  <p><strong>React ReactNative TailwindCSS Redux NodeJs ExpressJs PostGreSQL 
+     MySQL MongoDB Prisma Anaconda Springboot</strong></p>
+    
 <!--
 **ProgViki/ProgViki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
