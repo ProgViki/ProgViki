@@ -56,6 +56,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgViki&theme=vue-dark&hide_border=true" />
   <br />
   <img src="https://streak-stats.demolab.com/?user=ProgViki&theme=dark" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgViki&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <br />
+  <img src="" />
 </p>
 
 ---
