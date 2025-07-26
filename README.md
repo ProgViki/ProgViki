@@ -50,7 +50,7 @@
 - 🔗 [**Fullstack Blog Platform**](https://github.com/ProgViki/fullstack-blog)  
   _React • Express • MongoDB • Tailwind CSS_
 
-  - 🔗 [**Fullstack Payment Mobile App**](https://github.com/ProgViki/zee-pay)  
+- 🔗 [**Fullstack Payment Mobile App**](https://github.com/ProgViki/zee-pay)  
   _React Native • Nestjs • PostgreSQL • Firebase_
 
 ---
