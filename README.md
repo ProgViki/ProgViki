@@ -96,4 +96,10 @@
 
 ---
 
+### 💬 Engineering Philosophy
+
+> _"The art of engineering is not just in writing code, but in crafting systems that stand the test of time and scale."_
+
+---
+
 ## 🙌 Thanks for visiting!
