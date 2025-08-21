@@ -73,26 +73,12 @@
   <br />
  
 
-  ### 📊 Languages & Stats
+  ### 📊 Languages & Stats    ### 📊 Language Usage (Pie Chart and Bar Chart)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=tokyonight)
-
-  ### 📊 Language Usage (Pie Chart and Bar Chart)
-
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=donut&theme=radical)
-![Languages Bar Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&theme=radical)
-### 📊 Language Stats (Pie Chart)
-![Metrics](https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.languages.svg)
-### 📊 Language Usage (Compact Bars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&theme=radical)
-
-
-  
-
-
+  ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=donut&theme=radical)
 </p>
 
 ---
