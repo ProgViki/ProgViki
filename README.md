@@ -82,7 +82,7 @@
   ### 📊 Language Usage (Pie Chart and Bar Chart)
 
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=donut&theme=radical)
-![Languages Bar Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Languages Bar Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&theme=radical)
 
   
 
