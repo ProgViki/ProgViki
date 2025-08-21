@@ -87,7 +87,7 @@
 ![Metrics](https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.languages.svg)
 ### 📊 Language Usage (Compact Bars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&theme=radical)
 
 
   
