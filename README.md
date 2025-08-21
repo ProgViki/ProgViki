@@ -71,9 +71,13 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ProgViki&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <br />
+ 
+
   ### 📊 Languages & Stats
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=dracula)
+
 
 </p>
 
