@@ -15,7 +15,7 @@
 - 🧠 I’m passionate about mentoring and building impactful software
 - 💻 Other Languages include: **C**, **Python**, **Java**
 - **Embedded Systems** | **Firmware Development** | **Hardware Integration**
-- **PRD & SDLC Expertise** | **Software Testing**
+- **PRD & SDLC Expertise** | **Software Testing** | **Data Analytics & Security**
 
 
 ---
