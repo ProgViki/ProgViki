@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on advanced **mobile & web apps**
-- 🌱 Exploring deeper into **DevOps**, **ML**, and systems design
+- 🌱 Exploring deeper into **DevOps**, **ML**, **LLM**, and systems design
 - 👯 Collaborating on open-source and freelance projects
 - 💬 Ask me about **React Native**, **TypeScript**, **NestJS**, **PostgreSQL**, and clean architecture
 - 🧠 I’m passionate about mentoring and building impactful software
