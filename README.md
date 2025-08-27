@@ -88,16 +88,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ogunwehin-victor" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:victorogunwehin@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://v0-modern-portfolio-design-vikistringz.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://x.com/VictorOgunwehin" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
