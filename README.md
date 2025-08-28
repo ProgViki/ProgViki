@@ -78,8 +78,8 @@
   ### 📊 Languages & Stats     📊 Language Usage (Pie Chart and Bar Chart)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=tokyonight)
   ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=donut&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgViki&layout=compact&langs_count=8&theme=tokyonight)
 </p>
 
 ---
