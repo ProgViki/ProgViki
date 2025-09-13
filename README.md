@@ -80,6 +80,15 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
+---
+
+### 🛠️ Tools & IDEs  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+</p>
+
 ### 🚀 Featured Projects
 
 - 🔗 [**Modern Portfolio**](https://v0-modern-portfolio-design-vikistringz.vercel.app)  
