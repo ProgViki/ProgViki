@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Victor Ogunwehin 👋</h1>
 
 <p align="center">
-  🚀 Mobile & Fullstack Developer | 🛠 DevOps Enthusiast | 💡 Tech Educator  
+  🚀 Senior Mobile & Fullstack Developer | 🛠 DevOps Enthusiast | 💡 Tech Educator  
 </p>
 
 ---
