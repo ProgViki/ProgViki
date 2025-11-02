@@ -13,7 +13,7 @@
 - 👯 Collaborating on open-source and freelance projects
 - 💬 Ask me about **React Native**, **TypeScript**, **NestJS**, **PostgreSQL**, and clean architecture
 - 🧠 I’m passionate about mentoring and building impactful software
-- 💻 Other Languages include: **C**, **Python**, **Java**
+- 💻 Other Languages include: **C**, **Python**, **Java/Kotlin**
 - **Embedded Systems** | **Firmware Development** | **Hardware Integration**
 - **PRD, SOW & SDLC Expertise** | **Software Testing** | **Data Analytics & Security**
 
